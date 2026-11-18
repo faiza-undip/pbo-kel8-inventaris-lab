@@ -1,0 +1,6 @@
+Komputer|AST-PC01|Workstation Praktikum 01|Lenovo ThinkCentre|2024|1.25E7|Baik|LAB-RPL|true|Intel Core i7-13700|16|512
+Komputer|AST-PC02|PC Grafika 01|ASUS ProArt|2023|1.8E7|Baik|LAB-RPL|true|AMD Ryzen 7 7700X|32|1024
+Jaringan|AST-NET01|Managed Switch Core|Cisco Catalyst|2023|9500000.0|Baik|LAB-JAR|false|Switch L3|24|1000
+Jaringan|AST-NET02|Router Praktikum|MikroTik RB4011|2024|3800000.0|Rusak Ringan|LAB-JAR|true|Router|10|1000
+Furnitur|AST-FR01|Meja Komputer Lab|Informa Pro|2022|1850000.0|Baik|LAB-RPL|false|Kayu MDF & Besi|120x60x75 cm|0
+Furnitur|AST-FR02|Kursi Ergonomis Lab|Ergotec|2024|1200000.0|Baik|LAB-MM|true|Mesh & Rangka Baja|60x60x110 cm|0

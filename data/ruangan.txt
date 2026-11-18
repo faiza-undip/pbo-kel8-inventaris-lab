@@ -1,0 +1,3 @@
+LAB-RPL|Laboratorium Rekayasa Perangkat Lunak|Gedung FIK Lt. 2|40|Faiza Tanjia
+LAB-JAR|Laboratorium Jaringan Komputer|Gedung FIK Lt. 3|32|Muhammad Baihaqi
+LAB-MM|Laboratorium Multimedia & Grafika|Gedung FIK Lt. 2|30|Chicochaesa Elang Z
